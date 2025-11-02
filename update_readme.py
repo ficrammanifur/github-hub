@@ -1,5 +1,6 @@
 import requests
 import os
+import sys
 
 # -----------------------
 # Config
@@ -7,7 +8,13 @@ import os
 username = "ficrammanifur"
 token = os.getenv("GH_TOKEN")
 
+if not token:
+    print("Error: GH_TOKEN environment variable not set!")
+    sys.exit(1)
+
+# -----------------------
 # Kategori repositori
+# -----------------------
 categories = {
     "Web & Frontend": [
         "ficram-portfolio",
@@ -50,7 +57,15 @@ response = requests.get(
     f"https://api.github.com/user/repos?per_page=100&sort=updated",
     headers={"Authorization": f"token {token}"}
 )
+
+if response.status_code != 200:
+    print("Error fetching repos:", response.status_code, response.text)
+    sys.exit(1)
+
 repos = response.json()
+if not isinstance(repos, list):
+    print("Unexpected API response:", repos)
+    sys.exit(1)
 
 # -----------------------
 # Tulis README.md
@@ -64,25 +79,26 @@ with open("README.md", "w", encoding="utf-8") as f:
         f.write(f"## {category}\n")
         found_any = False
         for repo in repos:
-            if repo["name"] in repo_names:
-                name = repo["name"]
-                url = repo["html_url"]
-                desc = repo["description"] or ""
+            if repo.get("name") in repo_names:
+                name = repo.get("name", "No name")
+                url = repo.get("html_url", "#")
+                desc = repo.get("description") or ""
                 f.write(f"- [{name}]({url}) — {desc}\n")
                 found_any = True
         if not found_any:
             f.write("_Tidak ada repositori di kategori ini_\n")
         f.write("\n")
-
-    # Opsional: tambahkan repositori yang tidak termasuk kategori manapun
-    uncategorized = [repo for repo in repos if all(repo["name"] not in r for r in categories.values())]
+    
+    # Tambahkan repositori yang tidak termasuk kategori manapun
+    all_category_names = [name for names in categories.values() for name in names]
+    uncategorized = [repo for repo in repos if repo.get("name") not in all_category_names]
     if uncategorized:
         f.write("## Lain-lain\n")
         for repo in uncategorized:
-            name = repo["name"]
-            url = repo["html_url"]
-            desc = repo["description"] or ""
+            name = repo.get("name", "No name")
+            url = repo.get("html_url", "#")
+            desc = repo.get("description") or ""
             f.write(f"- [{name}]({url}) — {desc}\n")
         f.write("\n")
 
-print("README.md updated successfully!")
+print("✅ README.md updated successfully!")
