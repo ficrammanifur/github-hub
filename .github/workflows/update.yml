@@ -2,12 +2,14 @@ name: Update Repo List
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # setiap minggu (Minggu jam 00:00 UTC)
-  workflow_dispatch:      # bisa dijalankan manual juga
+    - cron: "0 0 * * 0"  # setiap minggu
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write    # <— penting! kasih izin ke GITHUB_TOKEN
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -27,13 +29,10 @@ jobs:
 
       - name: Commit changes
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git checkout main
-          git pull --rebase
           git add README.md
           git commit -m "auto: update repo list" || echo "No changes to commit"
-          git push origin HEAD:main
+          git push
