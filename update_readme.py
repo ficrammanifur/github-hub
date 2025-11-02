@@ -7,46 +7,80 @@ import sys
 # -----------------------
 username = "ficrammanifur"
 token = os.getenv("GH_TOKEN")
-
 if not token:
     print("Error: GH_TOKEN environment variable not set!")
     sys.exit(1)
 
 # -----------------------
-# Kategori repositori
+# Kategori repositori (diperluas berdasarkan daftar repositori yang diberikan)
 # -----------------------
 categories = {
     "Web & Frontend": [
         "ficram-portfolio",
         "flutter-interactive-portfolio",
         "flutter-project",
-        "frontend"
+        "frontend",
+        "PORTFOLIOO",
+        "pemilu-himate-login",
+        "himate-evote"
     ],
     "Backend & API": [
+        "tofico-analyzer-backend",
         "backend",
-        "my-fastap-app",
-        "tofico-analyzer-backend"
+        "my-fastap-app"
     ],
     "Robotics & IoT": [
-        "Robothand_pt2",
         "robot-autonomous-hexapod-ros2-esp32",
-        "ESP32_cam_tools",
-        "Control-Motor-With-DABBLE-APP"
+        "Robothand_pt2",
+        "Control-Motor-With-DABBLE-APP",
+        "esp32-drone",
+        "Gesture-Clone-Robot",
+        "PakanIkanOtomatsi",
+        "esp32-cam-tools",
+        "pico-test",
+        "Robohand",
+        "robot-wall-folower",
+        "smart-robotic-arm",
+        "raspi-labs",
+        "MQTT_ESP32_cam",
+        "Pakan-Ayam-Otomatis",
+        "esp32_control_led-ldr-pir-localhost",
+        "Esp32-mqtt-project",
+        "JemuranIot"
     ],
     "Machine Learning & AI": [
-        "detect-monkey-yolov8",
         "gemini_virtual_assistant",
-        "Predik-"
+        "detect-monkey-yolov8",
+        "Predik-",
+        "Google-Colab-YOLOv8",
+        "deteksi-monyet",
+        "yolo",
+        "tets_ai",
+        "ai_assistant",
+        "Monitoring-Hama"
     ],
     "Tools & Scripts": [
         "tools-python",
         "coba-cpp",
-        "DFS-test"
+        "DFS-test",
+        "github-readme-streak-stats",
+        "dynamic_modulation_oscilloscope",
+        "lyrics-test"
     ],
     "Projects & Misc": [
-        "Discover-Indonesia",
         "F1-Airflow-test-simulation",
-        "JemuranIot"
+        "Discover-Indonesia",
+        "Real-Madrid-Match-Predictor",
+        "Music-Playwr",
+        "Music-player",
+        "Filling-Machine-Web-Control",
+        "soundhoregg",
+        "project2",
+        "tugass",
+        "tetstt",
+        "tets1",
+        "alalalala",
+        "test1"
     ]
 }
 
@@ -57,11 +91,9 @@ response = requests.get(
     f"https://api.github.com/user/repos?per_page=100&sort=updated",
     headers={"Authorization": f"token {token}"}
 )
-
 if response.status_code != 200:
     print("Error fetching repos:", response.status_code, response.text)
     sys.exit(1)
-
 repos = response.json()
 if not isinstance(repos, list):
     print("Unexpected API response:", repos)
@@ -73,7 +105,7 @@ if not isinstance(repos, list):
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(f"# 🌐 {username}'s GitHub Hub\n\n")
     f.write("Daftar semua repositori saya, otomatis diperbarui 🚀\n\n")
-    
+   
     # Loop per kategori
     for category, repo_names in categories.items():
         f.write(f"## {category}\n")
@@ -88,7 +120,7 @@ with open("README.md", "w", encoding="utf-8") as f:
         if not found_any:
             f.write("_Tidak ada repositori di kategori ini_\n")
         f.write("\n")
-    
+   
     # Tambahkan repositori yang tidak termasuk kategori manapun
     all_category_names = [name for names in categories.values() for name in names]
     uncategorized = [repo for repo in repos if repo.get("name") not in all_category_names]
