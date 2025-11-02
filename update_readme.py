@@ -12,9 +12,8 @@ if not token:
     sys.exit(1)
 
 # -----------------------
-# Kategori repositori (diperluas dan disesuaikan dengan format contoh)
+# Kategori repositori (diperluas berdasarkan daftar repositori yang diberikan)
 # -----------------------
-# Kategori utama dengan tabel (Featured Projects adalah subset dari Projects & Misc)
 categories = {
     "Web & Frontend": [
         "ficram-portfolio",
@@ -68,21 +67,21 @@ categories = {
         "dynamic_modulation_oscilloscope",
         "lyrics-test"
     ],
-    "Featured Projects": [  # Subset unggulan dari Projects & Misc
+    "Projects & Misc": [
         "F1-Airflow-test-simulation",
         "Discover-Indonesia",
-        "Real-Madrid-Match-Predictor"
+        "Real-Madrid-Match-Predictor",
+        "Music-Playwr",
+        "Music-player",
+        "Filling-Machine-Web-Control",
+        "soundhoregg",
+        "project2",
+        "tugass",
+        "tetstt",
+        "tets1",
+        "alalalala",
+        "test1"
     ]
-}
-
-# Emoji per kategori untuk deskripsi jika kosong (opsional, untuk estetika)
-category_emojis = {
-    "Web & Frontend": "🌐",
-    "Backend & API": "🛠️",
-    "Robotics & IoT": "🤖",
-    "Machine Learning & AI": "🧠",
-    "Tools & Scripts": "🛠️",
-    "Featured Projects": "📦"
 }
 
 # -----------------------
@@ -101,60 +100,37 @@ if not isinstance(repos, list):
     sys.exit(1)
 
 # -----------------------
-# Fungsi helper untuk mendapatkan deskripsi dengan fallback
-# -----------------------
-def get_description(repo, category):
-    desc = repo.get("description", "").strip()
-    if not desc:
-        emoji = category_emojis.get(category, "")
-        desc = f"{emoji} Project description not available"
-    return desc
-
-# -----------------------
-# Tulis README.md dengan format tabel dan list
+# Tulis README.md
 # -----------------------
 with open("README.md", "w", encoding="utf-8") as f:
-    # Header
-    f.write('<div align="center">\n')
-    f.write('# 🚀 GitHub Hub\n')
-    f.write(f'> Daftar lengkap repositori saya — diperbarui otomatis\n')
-    f.write('</div>\n')
-    f.write('---\n\n')
-
-    # Loop per kategori utama (tabel)
+    f.write(f"# 🌐 {username}'s GitHub Hub\n\n")
+    f.write("Daftar semua repositori saya, otomatis diperbarui 🚀\n\n")
+   
+    # Loop per kategori
     for category, repo_names in categories.items():
-        f.write(f'## {category_emojis.get(category, "📂")} {category}\n')
-        f.write('| Repo | Deskripsi |\n')
-        f.write('|------|-----------|\n')
+        f.write(f"## {category}\n")
         found_any = False
         for repo in repos:
             if repo.get("name") in repo_names:
                 name = repo.get("name", "No name")
                 url = repo.get("html_url", "#")
-                desc = get_description(repo, category)
-                f.write(f'| [{name}]({url}) | {desc} |\n')
+                desc = repo.get("description") or ""
+                f.write(f"- [{name}]({url}) — {desc}\n")
                 found_any = True
         if not found_any:
-            f.write('| _No repositories in this category_ | _N/A_ |\n')
-        f.write('\n')
-
-    # Other Projects (list sederhana untuk uncategorized dan sisanya)
+            f.write("_Tidak ada repositori di kategori ini_\n")
+        f.write("\n")
+   
+    # Tambahkan repositori yang tidak termasuk kategori manapun
     all_category_names = [name for names in categories.values() for name in names]
-    other_repos = [repo for repo in repos if repo.get("name") not in all_category_names]
-    if other_repos:
-        f.write('## 🎮 Other Projects\n')
-        for repo in sorted(other_repos, key=lambda r: r.get("name", "")):
+    uncategorized = [repo for repo in repos if repo.get("name") not in all_category_names]
+    if uncategorized:
+        f.write("## Lain-lain\n")
+        for repo in uncategorized:
             name = repo.get("name", "No name")
             url = repo.get("html_url", "#")
-            desc = get_description(repo, "Other Projects")
-            f.write(f'- [{name}]({url}) — {desc}\n')
-        f.write('\n')
+            desc = repo.get("description") or ""
+            f.write(f"- [{name}]({url}) — {desc}\n")
+        f.write("\n")
 
-    # Footer
-    f.write('---\n')
-    f.write('<div align="center">\n')
-    f.write('### 🔗 Connect\n')
-    f.write(f'Kunjungi [profile GitHub saya](https://github.com/{username}) untuk melihat lebih banyak\n')
-    f.write('</div>\n')
-
-print("✅ README.md updated successfully with table format!")
+print("✅ README.md updated successfully!")
