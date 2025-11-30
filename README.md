@@ -68,9 +68,9 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
-- [fish-it-calculating](https://github.com/ficrammanifur/fish-it-calculating) — 
 - [esp32c3-oled-weather](https://github.com/ficrammanifur/esp32c3-oled-weather) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [fish-it-calculating](https://github.com/ficrammanifur/fish-it-calculating) — 
 - [aisahhh](https://github.com/ficrammanifur/aisahhh) — 
 - [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
 - [ArduinoLandingGear](https://github.com/ficrammanifur/ArduinoLandingGear) — 
