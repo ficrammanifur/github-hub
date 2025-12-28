@@ -68,9 +68,10 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
-- [esp32c3-oled-weather](https://github.com/ficrammanifur/esp32c3-oled-weather) — 
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [SmartPackageBox](https://github.com/ficrammanifur/SmartPackageBox) — 
 - [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [esp32c3-oled-weather](https://github.com/ficrammanifur/esp32c3-oled-weather) — 
 - [rettt](https://github.com/ficrammanifur/rettt) — 
 - [fish-it-calculating](https://github.com/ficrammanifur/fish-it-calculating) — 
 - [aisahhh](https://github.com/ficrammanifur/aisahhh) — 
