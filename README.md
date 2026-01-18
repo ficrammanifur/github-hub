@@ -68,11 +68,13 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
+- [ESP32-RTOS-Environmental-Monitor](https://github.com/ficrammanifur/ESP32-RTOS-Environmental-Monitor) — 
+- [Go-NAS](https://github.com/ficrammanifur/Go-NAS) — 
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [paket-pintar-esp32](https://github.com/ficrammanifur/paket-pintar-esp32) — 
 - [dashboard-SmartPackageBox](https://github.com/ficrammanifur/dashboard-SmartPackageBox) — 
 - [SmartPackageBox](https://github.com/ficrammanifur/SmartPackageBox) — 
 - [aisahhh](https://github.com/ficrammanifur/aisahhh) — 
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [fish-it-notifier](https://github.com/ficrammanifur/fish-it-notifier) — 
 - [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
 - [esp32c3-oled-weather](https://github.com/ficrammanifur/esp32c3-oled-weather) — 
