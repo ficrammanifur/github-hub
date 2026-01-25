@@ -68,9 +68,11 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
+- [auth-security-frontend](https://github.com/ficrammanifur/auth-security-frontend) — 
+- [auth-security-backend](https://github.com/ficrammanifur/auth-security-backend) — 
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [ESP32-RTOS-Environmental-Monitor](https://github.com/ficrammanifur/ESP32-RTOS-Environmental-Monitor) — 
 - [Go-NAS](https://github.com/ficrammanifur/Go-NAS) — 
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [paket-pintar-esp32](https://github.com/ficrammanifur/paket-pintar-esp32) — 
 - [dashboard-SmartPackageBox](https://github.com/ficrammanifur/dashboard-SmartPackageBox) — 
 - [SmartPackageBox](https://github.com/ficrammanifur/SmartPackageBox) — 
