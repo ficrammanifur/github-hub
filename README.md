@@ -68,8 +68,9 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
-- [wearable-sign-language-interpreter](https://github.com/ficrammanifur/wearable-sign-language-interpreter) — 
+- [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [wearable-sign-language-interpreter](https://github.com/ficrammanifur/wearable-sign-language-interpreter) — 
 - [interactive-game-platform](https://github.com/ficrammanifur/interactive-game-platform) — 
 - [smart-ai-lab-system](https://github.com/ficrammanifur/smart-ai-lab-system) — 
 - [PLC-Web-Simulator](https://github.com/ficrammanifur/PLC-Web-Simulator) — 
