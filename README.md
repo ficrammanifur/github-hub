@@ -69,6 +69,10 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 
 ## Lain-lain
 - [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
+- [-Forest-Sentinel-Dashboard](https://github.com/ficrammanifur/-Forest-Sentinel-Dashboard) — 
+- [esp32-web-installer](https://github.com/ficrammanifur/esp32-web-installer) — 
+- [documentation-hris-unified-ecosystem](https://github.com/ficrammanifur/documentation-hris-unified-ecosystem) — 
+- [workspace-control-panel](https://github.com/ficrammanifur/workspace-control-panel) — A scalable Laravel dashboard system for managing projects, tasks, file transfers, and user activities.
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [wearable-sign-language-interpreter](https://github.com/ficrammanifur/wearable-sign-language-interpreter) — 
 - [interactive-game-platform](https://github.com/ficrammanifur/interactive-game-platform) — 
