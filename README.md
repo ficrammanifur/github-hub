@@ -68,12 +68,18 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
+- [raspi-traffic-cctv](https://github.com/ficrammanifur/raspi-traffic-cctv) — 
+- [dasboard-ai-cctv](https://github.com/ficrammanifur/dasboard-ai-cctv) — 
+- [swot](https://github.com/ficrammanifur/swot) — Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+- [hand-tracking-dashboard](https://github.com/ficrammanifur/hand-tracking-dashboard) — 
+- [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
+- [hris-system](https://github.com/ficrammanifur/hris-system) — 
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
 - [-Forest-Sentinel-Dashboard](https://github.com/ficrammanifur/-Forest-Sentinel-Dashboard) — 
 - [esp32-web-installer](https://github.com/ficrammanifur/esp32-web-installer) — 
 - [documentation-hris-unified-ecosystem](https://github.com/ficrammanifur/documentation-hris-unified-ecosystem) — 
 - [workspace-control-panel](https://github.com/ficrammanifur/workspace-control-panel) — A scalable Laravel dashboard system for managing projects, tasks, file transfers, and user activities.
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [wearable-sign-language-interpreter](https://github.com/ficrammanifur/wearable-sign-language-interpreter) — 
 - [interactive-game-platform](https://github.com/ficrammanifur/interactive-game-platform) — 
 - [smart-ai-lab-system](https://github.com/ficrammanifur/smart-ai-lab-system) — 
@@ -87,7 +93,6 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [SmartPackageBox](https://github.com/ficrammanifur/SmartPackageBox) — 
 - [aisahhh](https://github.com/ficrammanifur/aisahhh) — 
 - [fish-it-notifier](https://github.com/ficrammanifur/fish-it-notifier) — 
-- [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
 - [esp32c3-oled-weather](https://github.com/ficrammanifur/esp32c3-oled-weather) — 
 - [rettt](https://github.com/ficrammanifur/rettt) — 
 - [fish-it-calculating](https://github.com/ficrammanifur/fish-it-calculating) — 
