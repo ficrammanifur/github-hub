@@ -36,8 +36,8 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Esp32-mqtt-project](https://github.com/ficrammanifur/Esp32-mqtt-project) — 
 
 ## Machine Learning & AI
-- [gemini_virtual_assistant](https://github.com/ficrammanifur/gemini_virtual_assistant) — 
 - [detect-monkey-yolov8](https://github.com/ficrammanifur/detect-monkey-yolov8) — 
+- [gemini_virtual_assistant](https://github.com/ficrammanifur/gemini_virtual_assistant) — 
 - [Google-Colab-YOLOv8](https://github.com/ficrammanifur/Google-Colab-YOLOv8) — 
 - [deteksi-monyet](https://github.com/ficrammanifur/deteksi-monyet) — 
 - [Monitoring-Hama](https://github.com/ficrammanifur/Monitoring-Hama) — 
@@ -68,6 +68,7 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
+- [kapaksitor](https://github.com/ficrammanifur/kapaksitor) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [raspi-traffic-cctv](https://github.com/ficrammanifur/raspi-traffic-cctv) — 
 - [dasboard-ai-cctv](https://github.com/ficrammanifur/dasboard-ai-cctv) — 
