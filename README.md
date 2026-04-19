@@ -68,15 +68,17 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
-- [kapaksitor](https://github.com/ficrammanifur/kapaksitor) — 
+- [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
+- [gemini-robot-gembot](https://github.com/ficrammanifur/gemini-robot-gembot) — 
+- [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [kapaksitor](https://github.com/ficrammanifur/kapaksitor) — 
 - [raspi-traffic-cctv](https://github.com/ficrammanifur/raspi-traffic-cctv) — 
 - [dasboard-ai-cctv](https://github.com/ficrammanifur/dasboard-ai-cctv) — 
 - [swot](https://github.com/ficrammanifur/swot) — Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [hand-tracking-dashboard](https://github.com/ficrammanifur/hand-tracking-dashboard) — 
 - [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
 - [hris-system](https://github.com/ficrammanifur/hris-system) — 
-- [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
 - [-Forest-Sentinel-Dashboard](https://github.com/ficrammanifur/-Forest-Sentinel-Dashboard) — 
 - [esp32-web-installer](https://github.com/ficrammanifur/esp32-web-installer) — 
 - [documentation-hris-unified-ecosystem](https://github.com/ficrammanifur/documentation-hris-unified-ecosystem) — 
