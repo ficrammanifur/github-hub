@@ -69,8 +69,8 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 
 ## Lain-lain
 - [time-series-citra](https://github.com/ficrammanifur/time-series-citra) — 
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [colab-test](https://github.com/ficrammanifur/colab-test) — 
 - [gemini-robot-gembot](https://github.com/ficrammanifur/gemini-robot-gembot) — 
 - [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
