@@ -77,7 +77,6 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [kapaksitor](https://github.com/ficrammanifur/kapaksitor) — 
 - [raspi-traffic-cctv](https://github.com/ficrammanifur/raspi-traffic-cctv) — 
 - [dasboard-ai-cctv](https://github.com/ficrammanifur/dasboard-ai-cctv) — 
-- [swot](https://github.com/ficrammanifur/swot) — Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [hand-tracking-dashboard](https://github.com/ficrammanifur/hand-tracking-dashboard) — 
 - [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
 - [hris-system](https://github.com/ficrammanifur/hris-system) — 
