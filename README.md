@@ -68,6 +68,8 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
+- [azzah](https://github.com/ficrammanifur/azzah) — 
+- [Smart-Hydroponic-Assitant](https://github.com/ficrammanifur/Smart-Hydroponic-Assitant) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [time-series-citra](https://github.com/ficrammanifur/time-series-citra) — 
 - [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
