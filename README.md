@@ -69,13 +69,14 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 
 ## Lain-lain
 - [azzah](https://github.com/ficrammanifur/azzah) — 
+- [colab-test](https://github.com/ficrammanifur/colab-test) — 
+- [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
+- [test](https://github.com/mahiraapinkan/test) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [Smart-Hydroponic-Assitant](https://github.com/ficrammanifur/Smart-Hydroponic-Assitant) — 
 - [time-series-citra](https://github.com/ficrammanifur/time-series-citra) — 
 - [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
-- [colab-test](https://github.com/ficrammanifur/colab-test) — 
 - [gemini-robot-gembot](https://github.com/ficrammanifur/gemini-robot-gembot) — 
-- [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
 - [kapaksitor](https://github.com/ficrammanifur/kapaksitor) — 
 - [raspi-traffic-cctv](https://github.com/ficrammanifur/raspi-traffic-cctv) — 
 - [dasboard-ai-cctv](https://github.com/ficrammanifur/dasboard-ai-cctv) — 
