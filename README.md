@@ -68,14 +68,17 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
+- [sign-language-recognition](https://github.com/ficrammanifur/sign-language-recognition) — 
+- [Batch-24](https://github.com/ficrammanifur/Batch-24) — 
+- [wahyu](https://github.com/ficrammanifur/wahyu) — 
+- [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
 - [azzah](https://github.com/ficrammanifur/azzah) — 
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [colab-test](https://github.com/ficrammanifur/colab-test) — 
 - [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
 - [test](https://github.com/mahiraapinkan/test) — 
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [Smart-Hydroponic-Assitant](https://github.com/ficrammanifur/Smart-Hydroponic-Assitant) — 
 - [time-series-citra](https://github.com/ficrammanifur/time-series-citra) — 
-- [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
 - [gemini-robot-gembot](https://github.com/ficrammanifur/gemini-robot-gembot) — 
 - [kapaksitor](https://github.com/ficrammanifur/kapaksitor) — 
 - [raspi-traffic-cctv](https://github.com/ficrammanifur/raspi-traffic-cctv) — 
