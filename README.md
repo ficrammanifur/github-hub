@@ -55,12 +55,12 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [DFS-test](https://github.com/ficrammanifur/DFS-test) — 
 
 ## Projects & Misc
+- [Filling-Machine-Web-Control](https://github.com/ficrammanifur/Filling-Machine-Web-Control) — 
 - [tetstt](https://github.com/ficrammanifur/tetstt) — 
 - [soundhoregg](https://github.com/ficrammanifur/soundhoregg) — 
 - [project2](https://github.com/ficrammanifur/project2) — 
 - [Real-Madrid-Match-Predictor](https://github.com/ficrammanifur/Real-Madrid-Match-Predictor) — 
 - [Music-Playwr](https://github.com/ficrammanifur/Music-Playwr) — 
-- [Filling-Machine-Web-Control](https://github.com/ficrammanifur/Filling-Machine-Web-Control) — 
 - [test1](https://github.com/ficrammanifur/test1) — 
 - [alalalala](https://github.com/ficrammanifur/alalalala) — 
 - [F1-Airflow-test-simulation](https://github.com/ficrammanifur/F1-Airflow-test-simulation) — 
@@ -68,12 +68,12 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
-- [sign-language-recognition](https://github.com/ficrammanifur/sign-language-recognition) — 
-- [Batch-24](https://github.com/ficrammanifur/Batch-24) — 
-- [wahyu](https://github.com/ficrammanifur/wahyu) — 
-- [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
+- [Wateruality](https://github.com/ficrammanifur/Wateruality) — 
 - [azzah](https://github.com/ficrammanifur/azzah) — 
+- [Gemini-chatbot-API-2](https://github.com/ficrammanifur/Gemini-chatbot-API-2) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [sign-language-recognition](https://github.com/ficrammanifur/sign-language-recognition) — 
+- [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
 - [colab-test](https://github.com/ficrammanifur/colab-test) — 
 - [offline-emergency-lora-system](https://github.com/ficrammanifur/offline-emergency-lora-system) — 
 - [test](https://github.com/mahiraapinkan/test) — 
