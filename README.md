@@ -68,10 +68,11 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
-- [Wateruality](https://github.com/ficrammanifur/Wateruality) — 
-- [azzah](https://github.com/ficrammanifur/azzah) — 
-- [Gemini-chatbot-API-2](https://github.com/ficrammanifur/Gemini-chatbot-API-2) — 
+- [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
+- [hris-system](https://github.com/ficrammanifur/hris-system) — 
+- [Waterrr-Quality](https://github.com/ficrammanifur/Waterrr-Quality) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [Gemini-chatbot-API-2](https://github.com/ficrammanifur/Gemini-chatbot-API-2) — 
 - [sign-language-recognition](https://github.com/ficrammanifur/sign-language-recognition) — 
 - [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
 - [colab-test](https://github.com/ficrammanifur/colab-test) — 
@@ -85,7 +86,6 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [dasboard-ai-cctv](https://github.com/ficrammanifur/dasboard-ai-cctv) — 
 - [hand-tracking-dashboard](https://github.com/ficrammanifur/hand-tracking-dashboard) — 
 - [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
-- [hris-system](https://github.com/ficrammanifur/hris-system) — 
 - [-Forest-Sentinel-Dashboard](https://github.com/ficrammanifur/-Forest-Sentinel-Dashboard) — 
 - [esp32-web-installer](https://github.com/ficrammanifur/esp32-web-installer) — 
 - [documentation-hris-unified-ecosystem](https://github.com/ficrammanifur/documentation-hris-unified-ecosystem) — 
