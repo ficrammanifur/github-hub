@@ -68,10 +68,14 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
+- [test-absen](https://github.com/ficrammanifur/test-absen) — 
+- [ESP32-RTOS-Environmental-Monitor](https://github.com/ficrammanifur/ESP32-RTOS-Environmental-Monitor) — 
+- [nutrisi-hidroponik-blynk](https://github.com/ficrammanifur/nutrisi-hidroponik-blynk) — 
+- [BPM_SP02_MONITOR](https://github.com/ficrammanifur/BPM_SP02_MONITOR) — 
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
 - [hris-system](https://github.com/ficrammanifur/hris-system) — 
 - [Waterrr-Quality](https://github.com/ficrammanifur/Waterrr-Quality) — 
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [Gemini-chatbot-API-2](https://github.com/ficrammanifur/Gemini-chatbot-API-2) — 
 - [sign-language-recognition](https://github.com/ficrammanifur/sign-language-recognition) — 
 - [gembot-core-v1.0](https://github.com/ficrammanifur/gembot-core-v1.0) — 
@@ -94,7 +98,6 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [interactive-game-platform](https://github.com/ficrammanifur/interactive-game-platform) — 
 - [smart-ai-lab-system](https://github.com/ficrammanifur/smart-ai-lab-system) — 
 - [PLC-Web-Simulator](https://github.com/ficrammanifur/PLC-Web-Simulator) — 
-- [ESP32-RTOS-Environmental-Monitor](https://github.com/ficrammanifur/ESP32-RTOS-Environmental-Monitor) — 
 - [auth-security-frontend](https://github.com/ficrammanifur/auth-security-frontend) — 
 - [auth-security-backend](https://github.com/ficrammanifur/auth-security-backend) — 
 - [Go-NAS](https://github.com/ficrammanifur/Go-NAS) — 
