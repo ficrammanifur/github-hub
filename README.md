@@ -68,11 +68,11 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
-- [test-absen](https://github.com/ficrammanifur/test-absen) — 
+- [esp32-rfid-face-recognition](https://github.com/ficrammanifur/esp32-rfid-face-recognition) — 
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [ESP32-RTOS-Environmental-Monitor](https://github.com/ficrammanifur/ESP32-RTOS-Environmental-Monitor) — 
 - [nutrisi-hidroponik-blynk](https://github.com/ficrammanifur/nutrisi-hidroponik-blynk) — 
 - [BPM_SP02_MONITOR](https://github.com/ficrammanifur/BPM_SP02_MONITOR) — 
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
 - [hris-system](https://github.com/ficrammanifur/hris-system) — 
 - [Waterrr-Quality](https://github.com/ficrammanifur/Waterrr-Quality) — 
