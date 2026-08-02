@@ -68,12 +68,14 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
 
 ## Lain-lain
-- [esp32-rfid-face-recognition](https://github.com/ficrammanifur/esp32-rfid-face-recognition) — 
+- [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
+- [dispenser-pintar](https://github.com/ficrammanifur/dispenser-pintar) — 
+- [hydroponic-ai-assistant](https://github.com/ficrammanifur/hydroponic-ai-assistant) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [esp32-rfid-face-recognition](https://github.com/ficrammanifur/esp32-rfid-face-recognition) — 
 - [ESP32-RTOS-Environmental-Monitor](https://github.com/ficrammanifur/ESP32-RTOS-Environmental-Monitor) — 
 - [nutrisi-hidroponik-blynk](https://github.com/ficrammanifur/nutrisi-hidroponik-blynk) — 
 - [BPM_SP02_MONITOR](https://github.com/ficrammanifur/BPM_SP02_MONITOR) — 
-- [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
 - [hris-system](https://github.com/ficrammanifur/hris-system) — 
 - [Waterrr-Quality](https://github.com/ficrammanifur/Waterrr-Quality) — 
 - [Gemini-chatbot-API-2](https://github.com/ficrammanifur/Gemini-chatbot-API-2) — 
