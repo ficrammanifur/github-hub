@@ -60,10 +60,13 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Filling-Machine-Web-Control](https://github.com/ficrammanifur/Filling-Machine-Web-Control) — 
 - [tetstt](https://github.com/ficrammanifur/tetstt) — 
 - [project2](https://github.com/ficrammanifur/project2) — 
-- [Music-Playwr](https://github.com/ficrammanifur/Music-Playwr) — 
 
 ## Lain-lain
+- [monitoring-air](https://github.com/ficrammanifur/monitoring-air) — 
+- [projectbackup](https://github.com/ficrammanifur/projectbackup) — 
+- [Smart-Farming](https://github.com/ficrammanifur/Smart-Farming) — 
 - [monitoring-bawang](https://github.com/ficrammanifur/monitoring-bawang) — 
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [hydroponics-monitoring](https://github.com/ficrammanifur/hydroponics-monitoring) — 
 - [HimpunanElektroUCA](https://github.com/ficrammanifur/HimpunanElektroUCA) — 
 - [ArduinoLandingGear](https://github.com/ficrammanifur/ArduinoLandingGear) — 
@@ -105,9 +108,6 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [nutrisi-hidroponik-blynk](https://github.com/ficrammanifur/nutrisi-hidroponik-blynk) — 
 - [esp32-rfid-face-recognition](https://github.com/ficrammanifur/esp32-rfid-face-recognition) — 
 - [hydroponic-ai-assistant](https://github.com/ficrammanifur/hydroponic-ai-assistant) — 
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
-- [monitoring-air](https://github.com/ficrammanifur/monitoring-air) — 
-- [Smart-Farming](https://github.com/ficrammanifur/Smart-Farming) — 
 - [water-monitoring](https://github.com/badronroiminak-cmyk/water-monitoring) — 
 - [dispenser-pintar](https://github.com/ficrammanifur/dispenser-pintar) — 
 - [ro-monitoringg](https://github.com/ficrammanifur/ro-monitoringg) — 
