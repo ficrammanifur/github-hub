@@ -33,7 +33,6 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Robothand_pt2](https://github.com/ficrammanifur/Robothand_pt2) — 
 - [robot-autonomous-hexapod-ros2-esp32](https://github.com/ficrammanifur/robot-autonomous-hexapod-ros2-esp32) — 
 - [esp32-drone](https://github.com/ficrammanifur/esp32-drone) — 
-- [PakanIkanOtomatsi](https://github.com/ficrammanifur/PakanIkanOtomatsi) — 
 
 ## Machine Learning & AI
 - [tets_ai](https://github.com/ficrammanifur/tets_ai) — 
@@ -43,12 +42,10 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Monitoring-Hama](https://github.com/ficrammanifur/Monitoring-Hama) — 
 - [gemini_virtual_assistant](https://github.com/ficrammanifur/gemini_virtual_assistant) — 
 - [detect-monkey-yolov8](https://github.com/ficrammanifur/detect-monkey-yolov8) — 
-- [Google-Colab-YOLOv8](https://github.com/ficrammanifur/Google-Colab-YOLOv8) — 
 
 ## Tools & Scripts
 - [DFS-test](https://github.com/ficrammanifur/DFS-test) — 
 - [tools-python](https://github.com/ficrammanifur/tools-python) — 
-- [github-readme-streak-stats](https://github.com/ficrammanifur/github-readme-streak-stats) — 
 
 ## Projects & Misc
 - [Music-player](https://github.com/ficrammanifur/Music-player) — 
@@ -58,23 +55,28 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Real-Madrid-Match-Predictor](https://github.com/ficrammanifur/Real-Madrid-Match-Predictor) — 
 - [soundhoregg](https://github.com/ficrammanifur/soundhoregg) — 
 - [Filling-Machine-Web-Control](https://github.com/ficrammanifur/Filling-Machine-Web-Control) — 
-- [tetstt](https://github.com/ficrammanifur/tetstt) — 
-- [project2](https://github.com/ficrammanifur/project2) — 
 
 ## Lain-lain
+- [Embedded-Systems-Roadmap](https://github.com/ficrammanifur/Embedded-Systems-Roadmap) — 
+- [wokwi-basic-embedded](https://github.com/ficrammanifur/wokwi-basic-embedded) — 
+- [esp32-mini-weather-station](https://github.com/ficrammanifur/esp32-mini-weather-station) — 
+- [MicroVoice](https://github.com/ficrammanifur/MicroVoice) — 
+- [matkul](https://github.com/ficrammanifur/matkul) — 
+- [nutrisi-hidroponik-blynk](https://github.com/ficrammanifur/nutrisi-hidroponik-blynk) — 
 - [monitoring-air](https://github.com/ficrammanifur/monitoring-air) — 
+- [dispenser-pintar](https://github.com/ficrammanifur/dispenser-pintar) — 
+- [kultur-social-corner](https://github.com/ficrammanifur/kultur-social-corner) — 
+- [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [project1](https://github.com/muhammadfarhan25042-lgtm/project1) — 
 - [projectbackup](https://github.com/ficrammanifur/projectbackup) — 
 - [Smart-Farming](https://github.com/ficrammanifur/Smart-Farming) — 
 - [monitoring-bawang](https://github.com/ficrammanifur/monitoring-bawang) — 
-- [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [hydroponics-monitoring](https://github.com/ficrammanifur/hydroponics-monitoring) — 
 - [HimpunanElektroUCA](https://github.com/ficrammanifur/HimpunanElektroUCA) — 
 - [ArduinoLandingGear](https://github.com/ficrammanifur/ArduinoLandingGear) — 
 - [fish-it-calculating](https://github.com/ficrammanifur/fish-it-calculating) — 
 - [rettt](https://github.com/ficrammanifur/rettt) — 
-- [esp32c3-oled-weather](https://github.com/ficrammanifur/esp32c3-oled-weather) — 
 - [fish-it-notifier](https://github.com/ficrammanifur/fish-it-notifier) — 
-- [aisahhh](https://github.com/ficrammanifur/aisahhh) — 
 - [SmartPackageBox](https://github.com/ficrammanifur/SmartPackageBox) — 
 - [dashboard-SmartPackageBox](https://github.com/ficrammanifur/dashboard-SmartPackageBox) — 
 - [paket-pintar-esp32](https://github.com/ficrammanifur/paket-pintar-esp32) — 
@@ -105,11 +107,9 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Waterrr-Quality](https://github.com/ficrammanifur/Waterrr-Quality) — 
 - [hris-system](https://github.com/ficrammanifur/hris-system) — 
 - [BPM_SP02_MONITOR](https://github.com/ficrammanifur/BPM_SP02_MONITOR) — 
-- [nutrisi-hidroponik-blynk](https://github.com/ficrammanifur/nutrisi-hidroponik-blynk) — 
 - [esp32-rfid-face-recognition](https://github.com/ficrammanifur/esp32-rfid-face-recognition) — 
 - [hydroponic-ai-assistant](https://github.com/ficrammanifur/hydroponic-ai-assistant) — 
 - [water-monitoring](https://github.com/badronroiminak-cmyk/water-monitoring) — 
-- [dispenser-pintar](https://github.com/ficrammanifur/dispenser-pintar) — 
 - [ro-monitoringg](https://github.com/ficrammanifur/ro-monitoringg) — 
 - [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
 - [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
