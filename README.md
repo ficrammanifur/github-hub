@@ -3,12 +3,12 @@
 Daftar semua repositori saya, otomatis diperbarui 🚀
 
 ## Web & Frontend
+- [flutter-interactive-portfolio](https://github.com/ficrammanifur/flutter-interactive-portfolio) — 
 - [frontend](https://github.com/ficrammanifur/frontend) — 
 - [PORTFOLIOO](https://github.com/ficrammanifur/PORTFOLIOO) — 
 - [pemilu-himate-login](https://github.com/ficrammanifur/pemilu-himate-login) — 
 - [himate-evote](https://github.com/ficrammanifur/himate-evote) — 
 - [flutter-project](https://github.com/ficrammanifur/flutter-project) — 
-- [flutter-interactive-portfolio](https://github.com/ficrammanifur/flutter-interactive-portfolio) — 
 - [ficram-portfolio](https://github.com/ficrammanifur/ficram-portfolio) — web ficrammanifur
 
 ## Backend & API
@@ -57,6 +57,8 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Filling-Machine-Web-Control](https://github.com/ficrammanifur/Filling-Machine-Web-Control) — 
 
 ## Lain-lain
+- [camdig](https://github.com/ficrammanifur/camdig) — 
+- [robotic](https://github.com/ficrammanifur/robotic) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [Embedded-Systems-Roadmap](https://github.com/ficrammanifur/Embedded-Systems-Roadmap) — 
 - [wokwi-basic-embedded](https://github.com/ficrammanifur/wokwi-basic-embedded) — 
@@ -113,6 +115,4 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [ro-monitoringg](https://github.com/ficrammanifur/ro-monitoringg) — 
 - [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
 - [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
-- [ro-monitoringg](https://github.com/wahyukurniaw4an/ro-monitoringg) — 
-- [test](https://github.com/mahiraapinkan/test) — 
 
