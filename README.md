@@ -57,9 +57,10 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Filling-Machine-Web-Control](https://github.com/ficrammanifur/Filling-Machine-Web-Control) — 
 
 ## Lain-lain
+- [minyak-jelantah](https://github.com/ficrammanifur/minyak-jelantah) — 
 - [camdig](https://github.com/ficrammanifur/camdig) — 
-- [robotic](https://github.com/ficrammanifur/robotic) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
+- [robotic](https://github.com/ficrammanifur/robotic) — 
 - [Embedded-Systems-Roadmap](https://github.com/ficrammanifur/Embedded-Systems-Roadmap) — 
 - [wokwi-basic-embedded](https://github.com/ficrammanifur/wokwi-basic-embedded) — 
 - [esp32-mini-weather-station](https://github.com/ficrammanifur/esp32-mini-weather-station) — 
@@ -114,5 +115,4 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [water-monitoring](https://github.com/badronroiminak-cmyk/water-monitoring) — 
 - [ro-monitoringg](https://github.com/ficrammanifur/ro-monitoringg) — 
 - [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
-- [ficrammanifur](https://github.com/ficrammanifur/ficrammanifur) — My Github Profile
 
