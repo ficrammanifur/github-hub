@@ -57,6 +57,9 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [Filling-Machine-Web-Control](https://github.com/ficrammanifur/Filling-Machine-Web-Control) — 
 
 ## Lain-lain
+- [miniosiloscop-pico-esp32generator](https://github.com/ficrammanifur/miniosiloscop-pico-esp32generator) — 
+- [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
+- [ipod-esp32](https://github.com/ficrammanifur/ipod-esp32) — 
 - [github-hub](https://github.com/ficrammanifur/github-hub) — 
 - [minyak-jelantah](https://github.com/ficrammanifur/minyak-jelantah) — 
 - [camdig](https://github.com/ficrammanifur/camdig) — 
@@ -112,7 +115,4 @@ Daftar semua repositori saya, otomatis diperbarui 🚀
 - [BPM_SP02_MONITOR](https://github.com/ficrammanifur/BPM_SP02_MONITOR) — 
 - [esp32-rfid-face-recognition](https://github.com/ficrammanifur/esp32-rfid-face-recognition) — 
 - [hydroponic-ai-assistant](https://github.com/ficrammanifur/hydroponic-ai-assistant) — 
-- [water-monitoring](https://github.com/badronroiminak-cmyk/water-monitoring) — 
-- [ro-monitoringg](https://github.com/ficrammanifur/ro-monitoringg) — 
-- [Waterrr-Clasificcc](https://github.com/ficrammanifur/Waterrr-Clasificcc) — 
 
